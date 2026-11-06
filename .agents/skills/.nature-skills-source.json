@@ -1,0 +1,14 @@
+{
+  "repository": "https://github.com/Yuan1z0825/nature-skills",
+  "ref": "main",
+  "commit": "d774add241c65e89ed17a4da573b472b0972fd42",
+  "skills": [
+    "nature-academic-search",
+    "nature-figure",
+    "nature-polishing",
+    "nature-reader",
+    "nature-ref-verifier",
+    "nature-shared",
+    "nature-writing"
+  ]
+}
